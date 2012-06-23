@@ -2,9 +2,9 @@
   {name, "mymodule"}, 
   {module_title, "Zotonic Module Title"},
   {module_priority, "500"},
-  {copyright_year, "2011"},
-  {author_name, "Susan Potter"},
-  {author_email,"me@susanpotter.net"},
+  {copyright_year, "2012"},
+  {author_name, "Tim McGilchrist"},
+  {author_email,"timmcgil@gmail.com"},
   {description, "<fill in description of Zotonic module here>."}
 ]}.
 {dir, ["mod_{{name}}"]}.

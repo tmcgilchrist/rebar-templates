@@ -1,7 +1,7 @@
 {variables, [
   {name, "mylogger"}, 
-  {author_name, "Susan Potter"},
-  {author_email, "me@susanpotter.net"},
+  {author_name, "Tim McGilchrist"},
+  {author_email, "timmcgil@gmail.com"},
   {copyright_year, 2011}
 ]}.
 {template, "finevt.erl", "src/{{name}}.erl"}.

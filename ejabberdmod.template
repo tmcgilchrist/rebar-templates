@@ -1,4 +1,4 @@
 {variables, [
   {name, "myejabberdmod"}, 
-  {author_name, "Susan Potter <me@susanpotter.net>"}]}.
+  {author_name, "Tim McGilchrist <timmcgil@gmail.com>"}]}.
 {template, "ejabberdmod.erl", "src/mod_{{name}}.erl"}.

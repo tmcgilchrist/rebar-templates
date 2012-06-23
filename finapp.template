@@ -1,9 +1,9 @@
 {variables, [
   {name, "appname"}, 
   {app_dir, "."},
-  {copyright_year, "2011"},
-  {author_name, "Susan Potter"},
-  {author_email,"me@susanpotter.net"}
+  {copyright_year, "2012"},
+  {author_name, "Tim McGilchrist"},
+  {author_email,"timmcgil@gmail.com"}
 ]}.
 {dir, "{{app_dir}}/src"}.
 {template, "finapp.app.src", "{{app_dir}}/src/{{name}}.app.src"}.
